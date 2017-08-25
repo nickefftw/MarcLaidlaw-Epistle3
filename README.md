@@ -1,33 +1,32 @@
-# Marc Laidlaw's Epistle 3 Post. August 25th, 2017.
-I'm archiving this for the world to see.
+# Эпистола Третья. Пост Марка Лейдлоу от 25 августа 2017 г.
+Архивирую, чтобы весь мир мог посмотреть на это.
 
-The original source is Marc Laidlaw's website, at https://www.marclaidlaw.com/epistle-3/ However, the immense traffic has killed his site. You can view a Wayback Machine version of that page, or the hosted version here on GitHub.
+Первоначальный источник текста, сайт Марка Лейдлоу, расположен по адресу: https://www.marclaidlaw.com/epistle-3/ Однако огромный наплыв трафика «убил» его. Вы можете просмотреть копию этой страницы в архиве Wayback Machine или же здесь, на GitHub.
 
-If you want a little more info, watch this video by ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
+Если вы хотите узнать ещё больше, просмотрите это видео ValveNewsNetwork: https://www.youtube.com/watch?v=urza2sbU68Q
 
-Here you can view the original version, as well as my corrected version which has all the obfuscated names switched back to the real names.
+Здесь вы можете просмотреть как оригинальную версию, так и исправленную, в которой все кодовые имена были заменены на настоящие.
 
+Если вы хотите знать, какие имена подверглись замене, вот их список:
 
-If you want to know what I changed in the name swaps, I made a rough list here:
+"Игрок" 			      : "Игрок" (прим. пер.: в оригинале игра слов «playa» и «player», которой в русском нет аналогов)
 
-"Playa" 			      : "Player"
+"Герти Фремонт" 	  : "Гордон Фримен"
 
-"Gertie Fremont" 	  : "Gordon Freeman"
+"Гертруда Фремонт" 	: "Гордон Фримен"
 
-"Gertrude Fremont" 	: "Gordon Freeman"
+"Гиперборея" 		    : "Борей" (прим. пер.: как в локализации от Буки)
 
-"Hyperborea" 		    : "Borealis"
+"Миссис X" 			    : "G-Man"
 
-"Mrs. X" 			      : "G-Man"
+"Несравнимые" 		  : "Альянс"
 
-"Disparate" 		    : "Combine"
+"Джерри Маас" 		  : "Джудит Моссман"
 
-"Jerry Maas" 		    : "Judith Mossman"
+"Алекс Вант" 		    : "Аликс Вэнс"
 
-"Alex Vaunt" 		    : "Alyx Vance"
+"Приведения" 	      : "Вортигонты"
 
-"Ghastlyhaunts" 	  : "Vortigaunts"
+"Элли Вант" 	    	: "Илай Вэнс"
 
-"Elly Vaunt" 	    	: "Eli Vance"
-
-"Tocsin Island"     : "Aperture Science"
+"Токсинный остров"  : "Aperture Science"
